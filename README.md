@@ -1,13 +1,15 @@
 # Hi, I'm Samarth! 👋
 
-**📞 Contact:**  
-- **Phone:** +91 9871847056  
-- **[Portfolio](https://samarth5101.github.io/)**
+**📞 Contact**
+
+**☎️Phone:** +91 9871847056  
+**🗃️My Portfolio:** [Samarth5101](https://samarth5101.github.io/)
 
 **📧 Email:** [samarthmishra373@gmail.com](mailto:samarthmishra373@gmail.com)  
-** [LinkedIn](https://www.linkedin.com/in/samarth-mishra-440389133/)**  
-**📸 [Instagram](https://www.instagram.com/samarth._.mishra/)**  
-**🐙 [GitHub](https://github.com/Samarth5101)**
+**🧰LinkedIn:** [Samarth's Linkedin](https://www.linkedin.com/in/samarth-mishra-440389133/)
+
+**📸 Instagram:** [Samarth's Instagram](https://www.instagram.com/samarth._.mishra/)  
+**🐙 Github:** [Samarth's GitHub](https://github.com/Samarth5101)
 
 ---
 
