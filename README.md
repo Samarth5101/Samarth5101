@@ -2,7 +2,7 @@
 
 **📞 Contact:**  
 - **Phone:** +91 9871847056  
-- **[Portfolio](your-portfolio-link.com)**
+- **[Portfolio](https://samarth5101.github.io/)**
 
 **📧 Email:** [samarthmishra373@gmail.com](mailto:samarthmishra373@gmail.com)  
 ** [LinkedIn](https://www.linkedin.com/in/samarth-mishra-440389133/)**  
