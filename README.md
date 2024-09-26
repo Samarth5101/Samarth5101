@@ -1,3 +1,6 @@
+
+![Banner](https://github.com/Samarth5101/All_Figma_Designs/blob/f678e9363263bf34c74ec9d5035f8152db178285/UI.UX/Cover%20Picture-Samarth%20Mishra.png)
+
 # Hi, I'm Samarth! 👋
 
 **📞 Contact**
